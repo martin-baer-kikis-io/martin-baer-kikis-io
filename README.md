@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martin-baer at kikis-io
 - 👀 I’m interested in creating an RPA solution that can fit into a normal Linux CICD process.
 - 🌱 I’m currently learning about working with open source code from the production side, rather than as a user or contributor.
-- 💞️ I’m looking to collaborate on open-toad.com.
+- 💞️ I’m looking to collaborate on open-toad.com, the aforementioned RPA solution.
 - 📫 How to reach me martin.baer@kikis.io.
 
 <!---
